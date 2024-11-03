@@ -27,3 +27,10 @@ x = byterray(5)                                  --bytearray
 x = memoryview (bytes(5))                        --memoryview
 x = None                                         -- NoneType
 
+here complex numbers are written with a "j" as the imaginary part"
+
+for example:
+     x = 3+5j
+     y = 5j
+     z = -5j  --here j is imaginary
+
