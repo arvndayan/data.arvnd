@@ -22,3 +22,5 @@ print(b)
 c =int(z)
 print(type(z))
 print(c)
+
+# here we cannot convert complex numbers into another number type
