@@ -16,7 +16,7 @@ x = 20                                           --int
 x = 20.5                                         --float
 x = 1j                                           --complex
 x = ["apple", "banana","cherry"]                 --list
-x = ("apple, "banana", "cherry")                 --tuple
+x = ("apple", "banana", "cherry")                 --tuple
 x = range(6)                                     --range
 x = dict (name ="john", age = 36)                --Dict
 x = set(("apple", "banana", "cherry"))           --set
