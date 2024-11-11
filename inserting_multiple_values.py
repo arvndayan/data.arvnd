@@ -11,3 +11,8 @@ y = ("cat", "dog", "snake")
 x[1:2] = y
 print(x)
 
+#Concatination
+x = ["apple", "banana", "papaya"]
+y = ["cat", "dog", "snake"]
+z = x+y
+print(z)
